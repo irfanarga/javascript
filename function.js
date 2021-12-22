@@ -15,3 +15,18 @@ const jalanTiga = ()=> {
 }
 
 jalanTiga()
+
+
+
+
+function jalanEmpat() {
+    console.log("jalan empat")
+}
+
+const jalanLima = function() {
+    console.log("jalan lima")
+}
+
+const jalanEnam = ()=> {
+    console.log("jalan enam")
+}
